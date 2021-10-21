@@ -8,4 +8,4 @@ I'm a self-taught web developer who loves to learn and build things from scratch
 - 💬 Ask me about how to mom and code.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/susannabrumm/)
 - 😄 Pronouns: she/her
--->
+
