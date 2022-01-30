@@ -2,7 +2,7 @@
 
 I'm a self-taught web developer who loves to learn and build things from scratch. 
 
-- 🔭 I’m currently working on... a cycle charting app built with React.
+- 🔭 I’m currently working on... a business website that I build with React.
 - 🌱 I’m currently learning... all things front-end and API.
 - 👯 I’m looking to... collaborate on front-end projects.
 - 💬 Ask me about... how to mom and code.
