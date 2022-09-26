@@ -2,8 +2,8 @@
 
 I'm a self-taught web developer who loves to learn and build things from scratch. 
 
-- 🔭 I’m currently working on... [building a storefront with angular](https://github.com/susi189/my-store-angular).
-- 🌱 I’m currently learning... Udacity Full-Stack Nanodegree.
+- 🔭 I’m currently working on... building a portfolio website for a client. 
+- 🌱 I’m currently learning... data structures and algorithms (recap).
 - 👯 I’m looking to... collaborate on full-stack projects.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/susannabrumm/)
 - 😄 Pronouns: she/her
