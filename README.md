@@ -2,7 +2,7 @@
 
 I'm a self-taught web developer who loves to learn and build things from scratch. 
 
-- 🔭 I’m currently working on... building a portfolio website for a client. 
+- 🔭 I’m currently working on... building a portfolio website for a business in Germany. 
 - 🌱 I’m currently learning... data structures and algorithms (recap).
 - 👯 I’m looking to... collaborate on full-stack projects.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/susannabrumm/)
