@@ -3,7 +3,7 @@
 I'm a Full Stack JavaScript Developer who loves to learn and build things from scratch. A recent Udacity Full Stack Nanodegree program graduate and a [Recurse Center](https://www.recurse.com/) alumna.
 
 - 🔭 I’m currently working on... building a portfolio website for a business in Germany. 
-- 🌱 I’m currently learning... data structures and algorithms (recap).
+- 🌱 I’m currently learning... data structures and algorithms.
 - 👯 I’m looking to... collaborate on full-stack projects.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/susannabrumm/)
 - 😄 Pronouns: she/her
