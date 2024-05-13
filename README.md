@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm a Full Stack JavaScript Developer who loves to learn and build things from scratch. A Udacity Full Stack Nanodegree program graduate and a [Recurser](https://www.recurse.com/).
+I'm a Data Engineer with background in Software Development. A Udacity Full Stack Nanodegree program graduate and a [Recurser](https://www.recurse.com/).
 
-- 🔭 I’m currently working on... data analysis and data visualisation project. 
-- 🌱 I’m currently learning... Python and Statistics.
-- 👯 I’m looking to... collaborate on full-stack projects.
+- 🔭 I’m currently working on... builing ETL pipelines for schools in the US using GCP, Prefect, Airflow and BigQuery.
+- 🌱 I’m currently learning... Google Cloud, Docker, Kubernetes.
+- 👯 I’m looking to... collaborate on data projects.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/susannabrumm/)
 - 😄 Pronouns: she/her
 
