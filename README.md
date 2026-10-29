@@ -32,7 +32,6 @@ I'm a Data Engineer with background in Risk Management/Trust & Safety. A Udacity
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=susi189)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
