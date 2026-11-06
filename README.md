@@ -2,9 +2,9 @@
 
 I'm a Data Engineer with background in Risk Management/Trust & Safety. A Udacity Full Stack Nanodegree program graduate and a [Recurser](https://www.recurse.com/).
 
-- 🔭 I’m currently working on... building ETL pipelines and AI Engineering .
-- 🌱 I’m currently learning... Data and AI.
-- 👯 I’m looking to... collaborate on data and AI projects.
+- 🔭 I’m currently working on... building ETL pipelines and AI Engineering.
+- 🌱 I’m currently learning... AI Engineering.
+- 👯 I’m looking to... collaborate on Data and AI projects.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/susannabrumm/)
 - 😄 Pronouns: she/her
 
